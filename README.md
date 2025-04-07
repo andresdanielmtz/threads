@@ -1,9 +1,11 @@
 # Threads
-
-## An activity about Java, Swing... and threads.
-
-### TC3004B
+## TC3004B
+### An activity about Java, Swing... and threads.
 
 Andrés Martínez - A00227463
 
-**To-do**: Document about this.
+---
+
+Activities related to Swing and thread-related programming within the Java Language.
+
+**To-do**: Improve documentation within each and every activity.
